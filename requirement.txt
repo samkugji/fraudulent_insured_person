@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+matplotlib
+statsmodels
+sklearn
+seaborn
+xlrd
+
+# tensorflow
+https://storage.googleapis.com/tensorflow/mac/tensorflow-0.9.0-py3-none-any.whl
